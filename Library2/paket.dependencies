@@ -1,0 +1,4 @@
+framework: net452
+
+source https://www.nuget.org/api/v2
+nuget FSharp.Compiler.Service ~> 9.0.0
